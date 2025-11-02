@@ -32,6 +32,6 @@ Plataforma MVP para visualizar **ocorrências de alagamento** na cidade de São 
 > Requer Docker Desktop (Windows/macOS) ou Docker Engine (Linux)
 
 ```bash
-git clone https://github.com/SEU_USUARIO/sp-flood-platform-mvp.git
+git clone https://github.com/Sergio-Mariano/sp-flood-platform-mvp.git
 cd sp-flood-platform-mvp/docker
 docker compose up
