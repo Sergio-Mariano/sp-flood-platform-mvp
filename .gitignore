@@ -1,0 +1,32 @@
+# ==== Python / venv ====
+**/.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Logs e artefatos de build
+*.log
+dist/
+build/
+
+# ==== SO (macOS/Windows) ====
+.DS_Store
+Thumbs.db
+
+# ==== Editores/IDEs ====
+.vscode/
+.idea/
+
+# ==== Docker (volumes locais, se usar) ====
+docker/pgdata/
+
+# ==== Variáveis de ambiente/segredos ====
+.env
+*.env
+backend/.env
+backend/*.env
+
+# ==== Caches / temporários ====
+*.tmp
+*.bak
